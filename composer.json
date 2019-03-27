@@ -13,7 +13,7 @@
         "shopware/platform": "dev-master"
     },
     "extra": {
-        "installer-name": "AdministrationNewColumn",
+        "installer-name": "AdministrationNewField",
         "label": {
             "de_DE": "Neue Spalte in der Administration",
             "en_GB": "New administration column"
