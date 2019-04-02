@@ -1,6 +1,6 @@
 {
-    "name": "swag/administration-new-column",
-    "description": "New administration column",
+    "name": "swag/administration-new-field",
+    "description": "New administration field",
     "version": "v1.0.0",
     "type": "shopware-plugin",
     "license": "MIT",
@@ -15,12 +15,12 @@
     "extra": {
         "installer-name": "AdministrationNewField",
         "label": {
-            "de_DE": "Neue Spalte in der Administration",
-            "en_GB": "New administration column"
+            "de_DE": "Neues Feld in der Administration",
+            "en_GB": "New administration field"
         },
         "description": {
-            "de_DE": "Neue Spalte in der Administration",
-            "en_GB": "New administration column"
+            "de_DE": "Neues Feld in der Administration",
+            "en_GB": "New administration field"
         }
     }
 }
