@@ -1,6 +1,6 @@
 <?php declare(strict_types=1);
 
-namespace AdministrationNewField;
+namespace Swag\AdministrationNewField;
 
 use Shopware\Core\Framework\Plugin;
 

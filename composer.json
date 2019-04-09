@@ -2,7 +2,7 @@
     "name": "swag/administration-new-field",
     "description": "New administration field",
     "version": "v1.0.0",
-    "type": "shopware-plugin",
+    "type": "shopware-platform-plugin",
     "license": "MIT",
     "authors": [
         {
@@ -13,7 +13,7 @@
         "shopware/platform": "dev-master"
     },
     "extra": {
-        "installer-name": "AdministrationNewField",
+        "shopware-plugin-class": "Swag\\AdministrationNewField\\AdministrationNewField",
         "label": {
             "de_DE": "Neues Feld in der Administration",
             "en_GB": "New administration field"
@@ -21,6 +21,11 @@
         "description": {
             "de_DE": "Neues Feld in der Administration",
             "en_GB": "New administration field"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Swag\\AdministrationNewField\\": "src/"
         }
     }
 }
