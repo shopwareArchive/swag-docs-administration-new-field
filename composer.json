@@ -15,12 +15,12 @@
     "extra": {
         "shopware-plugin-class": "Swag\\AdministrationNewField\\AdministrationNewField",
         "label": {
-            "de_DE": "Neues Feld in der Administration",
-            "en_GB": "New administration field"
+            "de-DE": "Neues Feld in der Administration",
+            "en-GB": "New administration field"
         },
         "description": {
-            "de_DE": "Neues Feld in der Administration",
-            "en_GB": "New administration field"
+            "de-DE": "Neues Feld in der Administration",
+            "en-GB": "New administration field"
         }
     },
     "autoload": {
